@@ -16,3 +16,14 @@ VS Code
 ## Courses
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ## Code example
+function checkheight(height) 
+{if (height > 150) {return true;} 
+
+else {return confirm('А родители с вами?');}}
+
+let height = prompt('Какой у вас рост?', 160);
+
+if ( checkheight(height) ) {alert( 'Доступ получен' );} 
+
+else {alert( 'Доступ закрыт' );}
+****
