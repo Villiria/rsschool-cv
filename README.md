@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Villiria.github.io/rsschool-cv/cv
+https://Villiria/rsschool-cv/cv
