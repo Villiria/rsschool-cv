@@ -29,9 +29,12 @@ else {alert( 'Доступ закрыт' );}
 ****
 ****
 ## Education
-+ Polotsk State University
+### Polotsk State University
+
 - The engineering geodesy
+
 - Economics and management at industrial enterprises
+
 - Master's degree in geodesy
 ## Languages
 + Russian (Native)
