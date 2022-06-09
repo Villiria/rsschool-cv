@@ -1,1 +1,1 @@
-https://Villiria.github.io/cv
+https://Villiria.github.io/rsschool-cv/cv
